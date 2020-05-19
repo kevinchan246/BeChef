@@ -12,8 +12,8 @@
         android:title="Search"/>
 
     <item
-        android:id="@+id/create_recipe"
-        android:icon="@drawable/ic_edit_black_24dp"
-        android:title="Create"/>
+        android:id="@+id/my_recipe"
+        android:icon="@drawable/ic_receipt_black_24dp"
+        android:title="My Recipe"/>
 
 </menu>

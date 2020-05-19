@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BeChef</string>
+    <string name="activity_create_recipe">Create new recipe Step.1</string>
+    <string name="recipe_title">Enter Recipe Title</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

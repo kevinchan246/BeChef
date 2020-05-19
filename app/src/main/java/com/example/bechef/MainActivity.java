@@ -38,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
                         case R.id.search_recipe:
                             selectedFragment = new SearchFragment();
                             break;
-                        case R.id.create_recipe:
-                            selectedFragment = new CreateFragment();
+                        case R.id.my_recipe:
+                            selectedFragment = new MyRecipeFragment();
                             break;
 
                     }
